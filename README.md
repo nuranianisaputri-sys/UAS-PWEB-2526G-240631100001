@@ -14,7 +14,7 @@ Aplikasi manajemen pendataan koleksi buku perpustakaan digital berbasis web. Pro
 - Bahasa Pemrograman: PHP (Native)
 - Database: MySQL / MariaDB
 - Desain Frontend: Bootstrap 5 & Font Awesome Icons
-- 
+
 ## Struktur Database
 Aplikasi ini menggunakan database bernama "pendataan_buku_uas" yang terdiri dari 2 tabel utama:
 ### 1. Tabel buku (Manajemen Data Perpustakaan)
